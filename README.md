@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <a href="#">
-  <img src="assets/banner.gif" alt="Sonali Bomma — Animated Terminal + Matrix Banner" width="100%"/>
+  <img src="assets/banner.gif" alt="Sonali Bomma— Animated Terminal + Matrix Banner" width="100%"/>
 </a>
 
 
