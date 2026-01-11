@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/24539521/README.md)## Hi there 👋
-
+Update Banner
 <!-- Banner -->
 <a href="#">
   <img src="assets/banner.gif" alt="Sonali Bomma — Animated Terminal + Matrix Banner" width="100%"/>
