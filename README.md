@@ -158,6 +158,6 @@ Projects focused on:
 sonalibomma2025@gmail.com
 
 💼 **LinkedIn:**  
-YOUR_LINKEDIN_URL
+www.linkedin.com/in/sonali-bomma-6175502b2 
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
