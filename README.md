@@ -1,86 +1,196 @@
-[README.md](https://github.com/user-attachments/files/24539521/README.md)## Hi there 👋
+```markdown
+<!-- ========================= Banner ========================= -->
 
-<!-- Banner -->
-<a href="#">
-  <img src="assets/banner.gif" alt="Sonali Bomma— Animated Terminal + Matrix Banner" width="100%"/>
-</a>
+<p align="center">
+  <img src="assets/banner.gif" alt="Sonali Bomma Banner" width="100%">
+</p>
 
+<h1 align="center">Hi 👋, I'm Sonali Bomma</h1>
 
-# Hey there, I'm **Sonali Bomma** 👋
+<h3 align="center">
+Computer Science Student • Software Developer • AI & Full-Stack Enthusiast
+</h3>
 
-*Aspiring Computer Science Student · Data Analysis Enthusiast · Future CAD/MBSE Specialist*
+<p align="center">
+I'm passionate about building software that solves real-world problems through AI, distributed systems, and modern software engineering.
+</p>
 
-- **Working on**: Preparing for a Student Assistant role at **NIAR’s CAD/CAM Digital Twin Lab**; building a cross‑platform mobile application integrating real‑time data visualization and UI design.
-- **Previously**: Office Assistant @ **Wichita State University Housing Department**; Laboratory Informatics Analyst Intern @ **Plastikon Healthcare LLC**; Member & workshop leader for the **HCC Computer Science Club**.
-- **Learning**: Mechanical CAD modelling, Digital Twin technologies, Model‑Based Systems Engineering (MBSE), and deeper data analytics.
-- **Ask me about**: Python, SQL, C/C++, Java, data extraction, Jupyter Notebooks, Tableau, and streamlining system operations.
-- **Reach me**: [Email](mailto:sonalibomma2025@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sonali-bomma-6175502b2)
+<p align="center">
+  <a href="mailto:sonalibomma2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
 
----
-
-## 🚀 Tech Stack
-`SQL · Python · C · C++ · Java · Jupyter Notebooks · VS Code · Tableau · HTML · Ruby · .Net · Azure`
-
----
-
-## 🔧 Professional Experience
-
-**Wichita State University, Housing Department | Office Assistant** *(Aug 2023 – May 2024)*  
-- Provided technical support to faculty and students, ensuring smooth system operations and minimizing disruptions.  
-- Managed software installations and updates to improve overall system efficiency and performance.  
-
-**Plastikon Healthcare LLC | Laboratory Informatics Analyst Intern** *(Summer 2024)*  
-- Developed automated Python scripts for data extraction, streamlining workflows and reducing manual effort.  
-- Utilized Python, SQL, and Tableau to design and create dynamic reports that improved research and development insights.  
-- Enhanced SQL queries for faster data retrieval, increasing database efficiency and performance.  
-- Managed SQL databases to facilitate analytical reporting, including data modeling, indexing, and stored procedures.  
-- Ensured system compliance with ISO standards, maintaining audit readiness and quality assurance.  
-
-**Hillsborough Community College | Computer Science Club Member & Workshop Lead** *(Feb 2025 – May 2025)*  
-- Conducted coding workshops and assisted peers in Python and C++ fundamentals.  
-- Helped coordinate technical events and fostered collaboration among students.  
+  <a href="https://www.linkedin.com/in/sonali-bomma-6175502b2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
 ---
 
-## 📚 Projects & Research
-- **Cross‑Platform Mobile App Development (Ongoing)** → Developing an application that integrates real‑time data visualization with an intuitive user interface, focusing on Python and modern frameworks.  
-- **AI Ethics and Responsible AI** → Gained insights into ethical AI principles, including fairness, transparency and responsible deployment.  
-- **Python for Machine Learning and Data Analysis** → Applied Python to build machine learning models and perform exploratory data analysis using real‑world datasets.  
+# 👩‍💻 About Me
+
+🎓 Bachelor of Science in Computer Science  
+📍 Wichita State University
+
+I'm a Computer Science student who enjoys designing and building software from idea to deployment. I love learning new technologies, solving challenging problems, and continuously improving my development skills.
+
+### My interests include
+
+- 💻 Software Engineering
+- 🤖 Artificial Intelligence
+- 🌐 Full-Stack Development
+- ☁️ Cloud Computing
+- 📊 Data Analytics
+- ⚡ Distributed Systems
 
 ---
 
-## 🎮 Featured Repositories
-> Check back soon for my GitHub projects! As I continue to build out my portfolio, I'll share repositories showcasing my work in data analysis, mobile applications, and CAD/MBSE exploration.
+# 🚀 Currently Working On
+
+- 🖥️ Distributed Machine Learning Simulation GUI
+- 📱 Cross-platform Mobile Application
+- 🤖 AI-powered Software Projects
+- 🐳 Docker & Linux
+- 📚 Data Structures & Algorithms
+- 🌱 Building my software engineering portfolio
 
 ---
 
-## 🎓 Education & Certifications
-- **B.S., Computer Science** – Wichita State University, Wichita, KS  
-  - Expected May 2027 · GPA: **3.0/4.0**  
-- **A.A., Computer Science** – Hillsborough Community College, Tampa, FL  
-  - Expected Summer 2025 · GPA: **4.0/4.0**  
-- **AI Ethics and Responsible AI** – learned ethical AI principles including fairness and transparency.  
-- **Udemy: Python for Machine Learning and Data Analysis** – applied Python to build ML models and perform exploratory data analysis.  
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E76F00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square)
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React (Learning)
+
+### Backend
+
+- Python
+- SQL
+
+### Databases
+
+- MySQL
+- SQL Server
+
+### Tools
+
+- Git
+- GitHub
+- Linux
+- VS Code
+- Jupyter Notebook
+- Tableau
+- Azure
 
 ---
 
-## 🌱 One‑liner
-> *“Always learning and aspiring to bridge computer science with engineering through digital‑twin technologies and data‑driven insights.”*
+# 📂 Featured Projects
+
+## 🧠 Distributed Machine Learning Simulator *(In Progress)*
+
+A desktop application that simulates distributed machine learning environments with configurable network topologies, experiment management, and live execution monitoring.
+
+**Tech:** Python • GUI • YAML • Git
 
 ---
 
- README.md…]()
+## 📱 Cross-Platform Mobile Application *(In Progress)*
 
-**sonalibomma/sonalibomma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developing a modern mobile application focused on real-time data visualization and intuitive user experience.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Data Analytics Projects
+
+Projects involving:
+
+- Data Cleaning
+- Data Visualization
+- SQL Optimization
+- Python Automation
+- Business Intelligence
+
+---
+
+# 💼 Experience
+
+## Laboratory Informatics Analyst Intern
+**Plastikon Healthcare LLC**
+
+- Automated data workflows using Python
+- Developed SQL queries and reports
+- Built Tableau dashboards
+- Improved analytical reporting
+- Supported laboratory informatics systems and compliance activities
+
+---
+
+## Office Assistant
+**Wichita State University**
+
+- Provided technical support
+- Assisted with software and system operations
+- Maintained efficient office workflows
+
+---
+
+# 🎓 Education
+
+**Bachelor of Science in Computer Science**
+
+Wichita State University
+
+📅 Expected Graduation: **May 2027**
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Docker
+- Linux
+- React
+- Distributed Systems
+- Software Architecture
+
+---
+
+# 📈 GitHub Goals
+
+✔️ Build meaningful software
+
+✔️ Contribute to Open Source
+
+✔️ Learn something new every day
+
+✔️ Share my journey through projects
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**
+
+sonalibomma2025@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/sonali-bomma-6175502b2
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+```
